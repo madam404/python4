@@ -77,12 +77,12 @@ Without this, the program would crash with a traceback.
 
 Displays a friendly error message to the user if the file is missing.
 
-
+---
 
 task2.py
 
 
-
+---
 🔹 user_input = input("Enter text to write to the file: ")
 
 Prompts the user to enter some text.
